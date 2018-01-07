@@ -16,8 +16,9 @@ I would not recommend using this on production. I only worked on it to experimen
 To build, and run the package, you must have `libgs-dev` installed.
 
 On Debian systems, this can be achieved using
-`apt-get install libgs-dev`.
+`apt-get install libgs-dev`. version: 9.10~9.15
 
+  https://launchpad.net/ubuntu/+source/ghostscript/9.10~dfsg-0ubuntu10
 
 ## Usage
 
